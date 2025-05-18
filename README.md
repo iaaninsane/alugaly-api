@@ -2,8 +2,8 @@
 # 📘 Documento de Requisitos do Sistema  
 **Projeto:** Plataforma Web de Aluguel de Itens entre Pessoas  
 **Versão:** 1.0 (MVP)  
-**Autor:** [Seu Nome]  
-**Data:** [Data Atual]
+**Autor:** [Ivan Ferreira]  
+**Data:** [18/05/2025]
 
 ---
 
